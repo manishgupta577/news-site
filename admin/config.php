@@ -1,6 +1,6 @@
 <?php
-$hostname = "http://localhost/news-site";
+$hostname = "http://sql6.freemysqlhosting.net/news-site";
 
-$conn = mysqli_connect("localhost","root","","news-site") or die("Connection failed : " . mysqli_connect_error());
+$conn = mysqli_connect("sql6.freemysqlhosting.net","	sql6408810","1nrhRUmeDw","	sql6408810") or die("Connection failed : " . mysqli_connect_error());
 
 ?>
